@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <!--
 **williamNyongesa/williamNyongesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
